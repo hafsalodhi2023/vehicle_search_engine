@@ -5,7 +5,7 @@ const resultTableBody = document.querySelector("#resultTableBody");
 
 async function checkData() {
   let url =
-    "https://script.google.com/macros/s/AKfycby9ZI6z3Kmc31XKa-PCgdrmkq27ISeK0ur92FYVnsvT_uTt0nmW6mcmona9wC9mXRFgfg/exec";
+    "https://script.google.com/macros/s/AKfycbxyEBkGmIcxdiod3GDPV5JTTGqq_0Dik5MoKHBtIJxGRBAtACMBjIeX5ONgsz2U2ZTsrg/exec";
 
   try {
     const response = await fetch(
